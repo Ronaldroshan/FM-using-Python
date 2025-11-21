@@ -50,12 +50,13 @@ plt.show()
 ```
 
 Output Waveform
-
+<img width="757" height="669" alt="Screenshot 2025-10-08 083851" src="https://github.com/user-attachments/assets/7b133d27-47b6-4f6d-9fae-f467e36a97d0" />
 
 
 
 Tabular Column
 
+![WhatsApp Image 2025-11-21 at 10 58 17_8232b692](https://github.com/user-attachments/assets/73ebbf02-8cf2-4865-bc54-beef8eee0ae1)
 
 
 
